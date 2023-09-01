@@ -1,4 +1,7 @@
 # AI-ML-projects
+
+foundation : [ML-foundations Github](https://github.com/jonkrohn/ML-foundations)
+
 projects i have done on AI and ML etc...
 
 ongoing project:-
